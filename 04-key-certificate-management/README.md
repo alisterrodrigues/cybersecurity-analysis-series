@@ -37,7 +37,7 @@ This reference architecture is the direct predecessor to the **PKI Architecture*
 
 ## Document
 
-📄 `Key_and_Certificate_Management_Lifecycle_Reference_Architecture.pdf`
+📄 [`Key_and_Certificate_Management_Lifecycle_Reference_Architecture.pdf`](https://github.com/alisterrodrigues/cybersecurity-analysis-series/blob/main/04-key-certificate-management/Key%20and%20Certificate%20Management%20Lifecycle%20Reference%20Architecture.pdf)
 
 ---
 
