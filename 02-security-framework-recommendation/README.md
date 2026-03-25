@@ -36,8 +36,7 @@ This is the direct precursor to the multi-framework governance architecture buil
 ---
 
 ## Document
-
-📄 `Cybersecurity_Framework_Recommendation_Crestline_Apparel.pdf`
+📄 [`Cybersecurity_Framework_Recommendation_Crestline_Apparel.pdf`](https://github.com/alisterrodrigues/cybersecurity-analysis-series/blob/main/02-security-framework-recommendation/Cybersecurity%20Framework%20Recommendations%20for%20Online%20T-Shirt%20Companies%20.pdf)
 
 ---
 
