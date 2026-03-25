@@ -46,7 +46,7 @@ This threat model was reproduced and expanded in the **Data & Software Security*
 
 ## Document
 
-📄 `STRIDE_Threat_Analysis_User_Profile_Data_Management.pdf`
+📄 [`STRIDE_Threat_Analysis_User_Profile_Data_Management.pdf`](https://github.com/alisterrodrigues/cybersecurity-analysis-series/blob/main/05-stride-threat-analysis/STRIDE%20Threat%20Analysis%20%26%20Mitigation%20for%20User%20Profile%20Data%20Protection%20in%20Business%20Processes.pdf)
 
 ---
 
