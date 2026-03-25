@@ -42,7 +42,7 @@ This analysis directly informed the **Identity, Access & Authentication Controls
 
 ## Document
 
-📄 `Analyzing_Authentication_Protocols_and_Implementation_Recommendations_for_E-Commerce_Security.pdf`
+📄 [View Full Analysis PDF](https://github.com/alisterrodrigues/cybersecurity-analysis-series/blob/main/01-authentication-protocols/Analyzing%20Authentication%20Protocols%20%26%20Recommending%20Implementation%20Methods%20for%20E-Commerce%20Website%20Security.pdf)
 
 ---
 
