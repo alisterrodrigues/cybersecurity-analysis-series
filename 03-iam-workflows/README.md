@@ -38,7 +38,7 @@ This workflow framework is the direct foundation for the **IAM Reference Archite
 
 ## Document
 
-📄 `IAM_Workflows_Joiner_Mover_Leaver_Entitlement_Review.pdf`
+📄 [`IAM_Workflows_Joiner_Mover_Leaver_Entitlement_Review.pdf`](https://github.com/alisterrodrigues/cybersecurity-analysis-series/blob/main/03-iam-workflows/Identity%20%26%20Access%20Management%20(IAM)%20Workflows%20for%20Organizational%20Security%20%26%20Compliance.pdf)
 
 ---
 
